@@ -1,24 +1,9 @@
-# README
+# MyPortfolio Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby on Rails 5 application that uses HTTParty to demonstrate parsing JSON.
+### Features
 
-Things you may want to cover:
+- HTTParty Implementation
+- Template on how to set up the JSON Parse
+- Test app to understand how it works.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
