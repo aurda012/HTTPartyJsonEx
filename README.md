@@ -1,4 +1,4 @@
-# MyPortfolio Application
+# JSONParse Application
 
 > This is a Ruby on Rails 5 application that uses HTTParty to demonstrate parsing JSON.
 ### Features
