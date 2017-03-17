@@ -4,7 +4,8 @@ class HotelsController < ApplicationController
   # GET /hotels
   # GET /hotels.json
   def index
-    @hotels = Hotel.all
+    @hotels = HTTParty.get('https://shielded-wave-66393.herokuapp.com',
+    :headers =>{'Content-Type' => 'application/json'} )
   end
 
   # GET /hotels/1
